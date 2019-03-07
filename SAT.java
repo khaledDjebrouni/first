@@ -11,7 +11,7 @@ import java.util.Vector;
 
 import TestSAT.Clause;
 import TestSAT.Litteral;
-
+// test
 public class SAT
 {
 	// tableau de valeurs possible
