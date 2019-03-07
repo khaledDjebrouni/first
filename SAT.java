@@ -13,7 +13,7 @@ import TestSAT.Clause;
 import TestSAT.Litteral;
 // test
 public class SAT
-{
+{//kjhkjh
 	// tableau de valeurs possible
 	static	boolean	tabVal[]	;
 	//	implimentation de la classe CNF
